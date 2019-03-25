@@ -1,0 +1,5 @@
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\QueryHelper\bin\Release\QueryHelper.dll
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\QueryHelper\bin\Release\QueryHelper.pdb
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\QueryHelper\obj\Release\QueryHelper.csprojResolveAssemblyReference.cache
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\QueryHelper\obj\Release\QueryHelper.dll
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\QueryHelper\obj\Release\QueryHelper.pdb
